@@ -1,3 +1,8 @@
+---
+layout: Acceuil
+title: Accueil
+---
+
 # Titre
 ## Titre
 [Aller à la Page 1](page1.md) 
