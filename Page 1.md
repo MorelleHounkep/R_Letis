@@ -1,3 +1,3 @@
 Voici la page 1
-[Retour à l'acceuil]_(index.md)_
-[Aller à la Page 2]_(Page 2.md)_
+[Retour à l'acceuil](index.md)
+[Aller à la Page 2](Page2.md)
