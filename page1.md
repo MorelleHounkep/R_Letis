@@ -1,10 +1,10 @@
 ![Riz Cantonais](https://www.autourduriz.com/asianfood/wp-content/uploads/2023/02/Riz-cantonais-4-773x773.jpeg)
 
  
-| Ustensiles | Temps de préparation       | Consommation     |
+| Ustensils | Temps de préparation       | Consommation     |
 |------------|--------------------------  |----------------- |
 | Riz        |10 minutes de préparation   | Chaud            |
-| Légules    |20 minutes de cuisson       | Froid            |
+| Légumes    |20 minutes de cuisson       | Froid            |
 
 Hachez en petits dés les carottes, les oignons et le jambon. Réservez le bulbe des oignons nouveaux d’un côté et les tiges de l’autre.
 
