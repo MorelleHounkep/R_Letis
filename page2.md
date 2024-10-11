@@ -31,4 +31,4 @@ Ces cookies constituent un en-cas tout à fait équilibré s’ils sont consomm�
 
 
 [Retour à l'acceuil](index.md) 
-[Recette Riz Cantonais](page1.md) 
+[Comment faire un délicieux Riz Cantonais](page1.md) 
