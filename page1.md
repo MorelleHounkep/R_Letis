@@ -3,7 +3,7 @@
 ![Riz Cantonais](https://www.autourduriz.com/asianfood/wp-content/uploads/2023/02/Riz-cantonais-4-773x773.jpeg)
 
  
-| Ustensils | Temps de préparation       | Consommation     |
+| Ingrédients| Temps de préparation       | Consommation     |
 |------------|--------------------------  |----------------- |
 | Riz        |10 minutes de préparation   | Chaud            |
 | Légumes    |20 minutes de cuisson       | Froid            |
