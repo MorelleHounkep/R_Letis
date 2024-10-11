@@ -19,4 +19,4 @@ Une fois le mélange bien chaud, poussez-le sur une moitié du wok. Ajoutez les 
 Servez bien chaud et dégustez !
 
 [Retour à l'acceuil](index.md)
-[Recette de Cookies inratable](page2.md)
+[Recette de Cookies Inratable](page2.md)
