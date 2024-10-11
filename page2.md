@@ -1,7 +1,7 @@
 ![Cookies](https://img.cuisineaz.com/660x495/2015/11/05/i71617-recette-des-cookies-moelleux-aux-pepites-de-chocolat.webp)
 
 | Ingrédients | Temps de Cuisson      | Valeurs nutritives   |
-|:----------  |:---------:            |----------:           |
+|:----------  |:---------:--------- - |----------:-----------|
 | Farine      | Préparation-15 minutes| Lipides 24g          |
 | Chocolat    | Cuisson-15 minutes    | Donnée 4 Calories 500|
 
