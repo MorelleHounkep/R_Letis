@@ -11,7 +11,7 @@
 
 
 
-1.Hachez en petits dés les carottes, les oignons et le jambon. Réservez le bulbe des oignons nouveaux d’un côté et les tiges de l’autre.
+1. Hachez en petits dés les carottes, les oignons et le jambon. Réservez le bulbe des oignons nouveaux d’un côté et les tiges de l’autre.
 
 2. Versez 2 c. à s. d’huile neutre dans le wok. Faites dorer les oignons hachés pendant 3 min.
 3. Ajoutez le jambon et les carottes en dés dans le wok avec la sauce soja Shoyu. Faites revenir 3 min en mélangeant régulièrement.
