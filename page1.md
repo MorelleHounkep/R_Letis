@@ -19,4 +19,4 @@ Une fois le mélange bien chaud, poussez-le sur une moitié du wok. Ajoutez les 
 Servez bien chaud et dégustez !
 
 [Retour à l'acceuil](index.md)
-[Aller à la Page 2](page2.md)
+[Recette Cookies](page2.md)
