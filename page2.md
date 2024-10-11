@@ -26,7 +26,7 @@ Recouvrez une plaque allant au four avec une feuille de papier cuisson, puis dis
 
 Vous n'avez plus qu'à enfourner vos cookies pendant plus ou moins 10 min. Dès que leurs bords brunissent, retirez-les du four car ils vont encore durcir en refroidissant. Laissez refroidir avant de les décoller de la plaque. Dégustez tièdes ou froids.
 
-###### Nutrition
+####### Nutrition
 
 Ces cookies constituent un en-cas tout à fait équilibré s’ils sont consommés avec modération et dans le cadre d’une alimentation variée et équilibrée ! Toutefois, pour les rendre encore plus sains et intéressants sur le plan nutrition, il est possible d’utiliser de la farine semi-complète pour augmenter l’apport en fibres sans modifier le goût. Les fibres permettent, entre autres, de rendre ces cookies plus rassasiants. Le beurre peut, quant à lui, être remplacé par de la purée d’amandes ou de noisettes, plus riches en acides gras insaturés excellents pour la santé cardiovasculaire.
 
