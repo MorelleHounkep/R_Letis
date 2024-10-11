@@ -5,5 +5,5 @@ title: Accueil
 
 # Titre
 ## Titre
-[Riz Cantonais](page1.md) 
-[Cookies](page2.md)
+[Comment faire un délicieux Riz Cantonais](page1.md) 
+[Recette de Cookies Inratable](page2.md)
